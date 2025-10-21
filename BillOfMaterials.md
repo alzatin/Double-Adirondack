@@ -3,5 +3,5 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |New Item|12|$0.00|www.example.com|
-|Wood Screw 1.25"|116|$0.00|www.example.com|
-|Total: |128|$0.00| |
+|Wood Screw 1.25"|120|$0.00|www.example.com|
+|Total: |132|$0.00| |
