@@ -2,6 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|New Item|15|$0.00|www.example.com|
-|Wood Screw 1.25"|120|$0.00|www.example.com|
+|New Item|15|$0.00||
+|Wood Screw 1.25"|120|$0.00||
 |Total: |135|$0.00| |
