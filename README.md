@@ -2,11 +2,21 @@
 
 # Double-Adirondack
 
-![](/project.svg)
+![](/project.png)
+
+## Inputs
+
+- **Seat Depth** (number)
+- **Seat Width** (number)
+- **ply thickness** (number)
+- **armRestHeight** (number)
 
 
 
- I want to move this logic into a github molecule that moves and rotates a certain number of iterations
+
+ ### Seat Slots
+
+I want to move this logic into a github molecule that moves and rotates a certain number of iterations
 
 
 
